@@ -1,0 +1,22 @@
+{
+  "name": "eroyo_cervezas",
+  "version": "1.0.0",
+  "description": "Paquete de pruebas de eroyo para el curso de nodejs. Genera un listado de cervezas y permite elegirlas al azar",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ereducacion/eroyo_cervezas.git"
+  },
+  "keywords": [
+    "cervezas"
+  ],
+  "author": "Eva <e.r.educacion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ereducacion/eroyo_cervezas/issues"
+  },
+  "homepage": "https://github.com/ereducacion/eroyo_cervezas#readme"
+}
