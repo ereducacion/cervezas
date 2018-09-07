@@ -1,6 +1,6 @@
 {
   "name": "eroyo_cervezas",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Paquete de pruebas de eroyo para el curso de nodejs. Genera un listado de cervezas y permite elegirlas al azar",
   "main": "src/index.js",
   "scripts": {
