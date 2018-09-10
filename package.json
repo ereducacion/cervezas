@@ -4,7 +4,7 @@
   "description": "Paquete de pruebas de eroyo para el curso de nodejs. Genera un listado de cervezas y permite elegirlas al azar",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha test/index.test.js -w",
+    "test": "mocha test/index.test.js",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once",
     "commit": "git-cz"
